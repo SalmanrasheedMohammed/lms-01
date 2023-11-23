@@ -1,2 +1,2 @@
 # lms-01
-This is a login application
+This is a login application for lms
